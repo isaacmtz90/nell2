@@ -3,8 +3,8 @@ NΞLL II
 
 Dockerized boilerplate for data projects.
 Docker image is heavy , based on the anaconda project. Build times should be pretty fast tho.
-------------
 | Run `docker-compose up` to start the notebook server. It will point to `localhost:8888`
+------------
 Project Organization
 ------------
 
